@@ -8,7 +8,7 @@
 A free native macOS app for turning GIFs and videos into animated wallpapers.
 </p>
 
-[![Download Lumi](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)](../../releases/latest)
+[![Download Lumi](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)](https://github.com/moistmoi/Lumi/releases/latest/download/Lumi.dmg)
 
 <br>
 
@@ -36,9 +36,9 @@ Lumi lives quietly in your menu bar and brings your desktop to life. Choose a GI
 
 ## Installation
 
-1. Open the [latest Lumi release](../../releases/latest).
-2. Download **Lumi.dmg** from the Assets section.
-3. Open the DMG and drag **Lumi** into Applications.
+1. [Download Lumi.dmg](https://github.com/moistmoi/Lumi/releases/latest/download/Lumi.dmg).
+2. Open the downloaded DMG.
+3. Drag **Lumi** into Applications.
 4. Launch Lumi and choose your first wallpaper.
 
 > Lumi is currently distributed without Apple notarization. If macOS blocks the first launch, right-click **Lumi** and select **Open**. You can also allow it under **System Settings → Privacy & Security → Open Anyway**.
