@@ -1,38 +1,45 @@
 <div align="center">
 
+<br>
+
 <h1>Lumi</h1>
 
-<p><em>A softer, more magical desktop.</em></p>
+<p><em>Your desktop, gently in motion.</em></p>
 
 <p>
-A free native macOS app for turning GIFs and videos into animated wallpapers.
+A minimal live-wallpaper app made natively for macOS.<br>
+Use your favorite GIFs and videos—privately, locally, and for free.
 </p>
-
-[![Download Lumi](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge\&logo=apple\&logoColor=white)](https://github.com/moistmoi/Lumi/releases/latest/download/Lumi.dmg)
 
 <br>
 
-![macOS 14+](https://img.shields.io/badge/macOS-14%2B-black?style=flat-square)
-![Native Swift](https://img.shields.io/badge/Native-Swift-black?style=flat-square)
-![Free & Local](https://img.shields.io/badge/Free%20%26%20Local-Always-black?style=flat-square)
+[![Download Lumi for macOS](https://img.shields.io/badge/Download%20for%20macOS-111111?style=for-the-badge\&logo=apple\&logoColor=white)](https://github.com/moistmoi/Lumi/releases/latest/download/Lumi.dmg)
+
+<br>
+
+<sub>macOS 14 Sonoma or later</sub>
+
+<br><br>
 
 </div>
 
 ---
 
-## About
+## Bring a little movement to your Mac
 
-Lumi lives quietly in your menu bar and brings your desktop to life. Choose a GIF or video, and Lumi plays it behind your desktop icons without interrupting your work.
+Lumi turns GIFs and videos into animated desktop wallpapers. It stays quietly in your menu bar while your wallpaper plays behind desktop icons and normal windows.
 
-## Features
+Choose something cozy, dreamy, cinematic, peaceful—or simply something that feels like you.
+
+### Features
 
 * GIF, MP4, MOV and M4V wallpapers
-* Native macOS menu-bar controls
+* Lightweight native menu-bar controls
 * Fill, Fit, Stretch and Center scaling
 * Multiple-display support
-* Wallpaper collections, favorites and rotation
+* Collections, favorites and automatic rotation
 * Battery-friendly pause controls
-* Completely local and private
+* Completely local playback
 
 ## Installation
 
@@ -43,14 +50,9 @@ Lumi lives quietly in your menu bar and brings your desktop to life. Choose a GI
 
 > Lumi is currently distributed without Apple notarization. If macOS blocks the first launch, right-click **Lumi** and select **Open**. You can also allow it under **System Settings → Privacy & Security → Open Anyway**.
 
-## Requirements
-
-* macOS 14 Sonoma or newer
-* A GIF or video format supported by macOS
-
 ## Privacy
 
-Lumi works completely locally.
+Lumi works entirely on your Mac.
 
 * No accounts
 * No subscriptions
@@ -58,12 +60,12 @@ Lumi works completely locally.
 * No analytics or tracking
 * No cloud uploads
 
-Your wallpapers never leave your Mac.
+Your wallpapers never leave your device.
 
 ---
 
 <div align="center">
 
-<sub>Made with Swift and a love for pretty desktops.</sub>
+<sub>Made with Swift for softer, prettier desktops.</sub>
 
 </div>
