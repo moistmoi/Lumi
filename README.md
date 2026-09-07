@@ -2,7 +2,7 @@
 
 <br>
 
-<h1>Lumi</h1>
+<h1>Lumi Wallpapers</h1>
 
 <p><em>Your desktop, gently in motion.</em></p>
 
